@@ -1,5 +1,5 @@
 {
-  "utc": "2026-11-05T04:12:04.821Z",
+  "utc": "2026-11-05T13:39:26.851Z",
   "actor": "Codex",
   "repo": "pagelove/fitness-tracker-template",
   "scope": "Candidate source closure; audit files excluded to avoid recursive receipts",
@@ -37,13 +37,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 2419,
-      "sha256": "e1edd08d8254d667b55b7cc98e62fbe6131fa468fea2526f32a736178377b99c"
+      "bytes": 3570,
+      "sha256": "246bb56b98fe11233a5ba53792843a2be5c2c1c269a2168e47364d8c7744cbdf"
     },
     {
       "path": "REVIEW.md",
-      "bytes": 1767,
-      "sha256": "d4e87c747909d7783005abf1cf38f3ffa429b6dd4094f6ebe67230408e419f20"
+      "bytes": 2918,
+      "sha256": "6340434a93b2726981dcf0b1793f7cc3a5662ee1dc96688b9a599cb645f1c9d3"
     },
     {
       "path": "bun.lock",
