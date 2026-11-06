@@ -1,0 +1,21 @@
+{
+  "title": "Steady — A little, often.",
+  "description": "Personal movement records, without medical advice.",
+  "siteName": "Steady",
+  "locale": "en_US",
+  "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/fitness-tracker/",
+  "themeColor": "#1b3024",
+  "image": {
+    "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/fitness-tracker/assets/social/default.png",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png",
+    "alt": "Steady — A little, often."
+  },
+  "icons": {
+    "svg": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/fitness-tracker/assets/identity/favicon.svg",
+    "ico": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/fitness-tracker/assets/identity/favicon.ico",
+    "apple": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/fitness-tracker/assets/identity/apple-touch-icon.png"
+  },
+  "manifest": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/fitness-tracker/assets/identity/site.webmanifest"
+}

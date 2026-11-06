@@ -1,0 +1,16 @@
+{
+  "design": "forest",
+  "mode": "light",
+  "titleLines": [
+    "A little, often."
+  ],
+  "titleSize": 76,
+  "descriptionLines": [
+    "Personal movement records, without medical advice."
+  ],
+  "fonts": [
+    "Inter",
+    "Inter"
+  ],
+  "safeInset": 64
+}
