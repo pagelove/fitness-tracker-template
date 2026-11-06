@@ -1,0 +1,56 @@
+{
+  "utc": "2026-11-06T00:27:44.989Z",
+  "app": "fitness-tracker",
+  "design": "forest",
+  "mode": "light",
+  "desktop": {
+    "app": "fitness-tracker",
+    "background": "rgb(241, 245, 233)",
+    "bodyFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Arial, sans-serif",
+    "bodyFontReady": true,
+    "cardRadius": "20px",
+    "design": "forest",
+    "headingFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Arial, sans-serif",
+    "headingFontReady": true,
+    "mode": "light",
+    "overflow": false
+  },
+  "mobile": {
+    "app": "fitness-tracker",
+    "headerActionHeight": 46,
+    "overflow": false,
+    "width": 320
+  },
+  "tasks": {
+    "app": "fitness-tracker",
+    "empty": "0 activities",
+    "dialogFocus": true,
+    "escapeCloses": true
+  },
+  "checks": [
+    {
+      "args": [
+        "scripts/check.mjs"
+      ],
+      "status": 0
+    },
+    {
+      "args": [
+        "--test",
+        "tests/model.test.mjs",
+        "tests/domain.test.mjs",
+        "tests/persistence.test.mjs",
+        "tests/deployment.test.mjs"
+      ],
+      "status": 0
+    },
+    {
+      "args": [
+        "scripts/deploy.mjs",
+        "--prepare"
+      ],
+      "status": 0
+    }
+  ],
+  "limits": "Browser local fixture; OS motion emulation/physical device/screen reader and new production permissions not tested."
+}
